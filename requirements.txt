@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+datetime
+os
+wikipedia
+pywhatkit
+json
+requests
+subprocess
+sys
+time
+ctypes
